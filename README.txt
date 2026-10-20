@@ -1,0 +1,4 @@
+A high-quality UI asset designed for indie developers in the retro-futurist/cyberpunk niche, featuring a CRT-styled communication terminal with amber text and scanlines.
+
+Description:
+A high-detail 2D game UI asset of a retro-futurist communication terminal. The screen displays a thick CRT scanline effect with slight curvature at the edges and a subtle flicker. The color palette is monochromatic amber on a dark charcoal background. The interface features several blocks of simulated text: 'INCOMING MESSAGES' with a list of cryptic status updates, and a 'SYSTEM STATUS' window showing scrolling lines of code and percentages. The aesthetic combines 1980s computing with cyberpunk grit. The design is flat but textured, intended as a functional UI element for a video game. No physical hardware frame is visible, just the glowing screen content.
